@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Coffee Rater</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="create">Create</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="location">Location</string>
+    <string name="name">Name</string>
+    <string name="info">Info</string>
+
+    <string-array name="nameOfCoffeeShop">
+        <item>zCafe1</item>
+        <item>yCafe2</item>
+        <item>zCafe3</item>
+        <item>yCafe4</item>
+        <item>zCafe5</item>
+        <item>yCafe6</item>
+        <item>zCafe7</item>
+        <item>yCafe8</item>
+        <item>zCafe9</item>
+        <item>yCafe10</item>
+    </string-array>
+
+    <string-array name="locationOfCoffeeShop">
+        <item>Bucuresti</item>
+        <item>Bucuresti</item>
+        <item>Cluj</item>
+        <item>Brasov</item>
+        <item>Bucuresti</item>
+        <item>Brasov</item>
+        <item>Cluj</item>
+        <item>Bucuresti</item>
+        <item>Cluj</item>
+        <item>Bucuresti</item>
+    </string-array>
+</resources>

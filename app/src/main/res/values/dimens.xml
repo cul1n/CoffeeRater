@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navBarHeight">50dp</dimen>
+    <dimen name="imagePadding">15dp</dimen>
+</resources>
