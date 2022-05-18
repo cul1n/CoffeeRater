@@ -9,16 +9,16 @@
     <string name="info">Info</string>
 
     <string-array name="nameOfCoffeeShop">
-        <item>zCafe1</item>
-        <item>yCafe2</item>
-        <item>zCafe3</item>
-        <item>yCafe4</item>
-        <item>zCafe5</item>
-        <item>yCafe6</item>
-        <item>zCafe7</item>
-        <item>yCafe8</item>
-        <item>zCafe9</item>
-        <item>yCafe10</item>
+        <item>Starbucks</item>
+        <item>Coffe2Go</item>
+        <item>5toGo</item>
+        <item>SantaCruz</item>
+        <item>Cafe</item>
+        <item>Starbucks</item>
+        <item>Cafe</item>
+        <item>Coffe2Go</item>
+        <item>Starbucks</item>
+        <item>Chiaro</item>
     </string-array>
 
     <string-array name="locationOfCoffeeShop">
